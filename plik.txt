@@ -1,1 +1,3 @@
 kot ma na imie fiona.
+
+Dodanie nowej, eksperymentalnej funkcji.
